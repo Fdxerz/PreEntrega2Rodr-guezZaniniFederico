@@ -1,0 +1,73 @@
+body {
+    font-family: Raleway;
+    font-size: 2rem;}
+h1 {
+    color: red;
+    text-align: center;
+    text-decoration: underline;}
+h2{
+    color: blue;
+    text-decoration: underline;}
+
+.align_center {text-align: center;}
+.align_left {text-align: left;}
+
+.servicios_img {
+width: 400px;
+height: 400px;}
+
+.servicios_txt
+{text-align: center;
+font-size: 2rem;
+font-weight: bolder;}
+
+.portada img{width: 120rem;
+    height: 40rem;}
+
+.v1 img{width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: flex;
+    justify-content: space-evenly;}
+
+
+
+
+
+.asdasdasd img{
+    width: 5%;
+    height: 5%;
+    object-fit: cover;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.ColorRed {text-align: center;
+color: red;
+font-family: Alex Brush;
+font-size: 90px;
+text-decoration: underline;
+}
+
+.ColorBlue {
+    color: blue;
+    text-decoration: underline;
+    font-style: italic;}
+
+
+.ColorGreen {
+    color: green;
+text-decoration: underline;}
+
+.FondoGris1 {
+    color: white;
+  background-color: rgb(61, 59, 59);
+}
+
+#BoxModel {
+    padding: 50px;
+    width: 1700px;
+    margin-right: auto;
+    border: 15px solid blue;
+}
